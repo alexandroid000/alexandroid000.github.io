@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Dr. Alli Nilles"
   avatar           : "headshot.jpg"
-  bio              : "Robotics Researcher - Postdoctoral Associate @ CEI Lab"
+  bio              : "Robotics Researcher - Postdoc @ CEI Lab"
   location         : "Denver / Ithaca"
-  employer         :
-  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  employer         : "Cornell University"
+  pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=3AvC70UAAAAJ&hl=en"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :
   uri              :
   bitbucket        :
   codepen          :
@@ -100,16 +100,16 @@ author:
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      :
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "http://orcid.org/0000-0003-1474-2059"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    :
   steam            :
   tumblr           :
-  twitter          : # "replacethistwitterhandle"
+  twitter          :
   vine             :
   weibo            :
   xing             :
