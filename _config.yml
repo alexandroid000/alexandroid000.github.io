@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dr. Alli Nilles"
+title                    : "Home"
 title_separator          : "-"
-name                     : &name "Alli Nilles"
+name                     : &name "Dr. Alli Nilles"
 description              : &description "Robotics Researcher - Postdoc at Cornell University"
 url                      : https://alexandroid000.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"

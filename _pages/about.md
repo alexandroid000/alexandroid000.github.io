@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Alli Nilles"
+title: "Home"
 excerpt: "Alli Nilles"
 author_profile: true
 redirect_from: 
@@ -8,8 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-
-# About Me
 
 I completed my Ph.D. in Computer Science at the University of Illinois at
 Urbana-Champaign in Fall 2020, advised by [Dr. Steven M. LaValle](http://lavalle.pl/). I am now a
