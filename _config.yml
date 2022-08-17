@@ -82,10 +82,10 @@ analytics:
 author:
   name             : "Dr. Alli Nilles"
   avatar           : "headshot.jpg"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "Robotics Researcher - Postdoctoral Associate @ CEI Lab"
+  location         : "Denver / Ithaca"
   employer         :
-  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=3AvC70UAAAAJ&hl=en"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
