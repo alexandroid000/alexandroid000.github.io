@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Physically Coupled Soft Robot Collectives"
+excerpt: "Simple, soft inflatable robots with strain sensors and magnets <br/><img src='/images/foambot.png'>"
 collection: portfolio
 ---
 
