@@ -1,7 +1,12 @@
 ---
 title: "Physically Coupled Soft Robot Collectives"
-excerpt: "Simple, soft inflatable robots with strain sensors and magnets <br/><img src='/images/foambot.png'>"
+excerpt: "Simple, soft inflatable robots with strain sensors and magnets <br/><img src='/images/foambot.png' width='500'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+In collaboration with Steven Ceron, Nils Napp, and Kirstin Petersen, we are
+investigating state estimation, control, and synchronization algorithms for
+collectives of soft pneumatic robots that inflate and deflate radially. The
+robots have embedded proprioceptive strain sensors, and I am particularly
+interested in minimalist coordination mechanisms that leverage the
+proprioceptive strain information.
