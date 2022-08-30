@@ -1,7 +1,7 @@
 ---
 title: "Virtual reality for robots"
 collection: publications
-permalink: /publication/2020-01-01-Virtual-reality-for-robots
+permalink: /files/Virtual-reality-for-robots
 date: 2020-01-01
 venue: 'In the proceedings of 2020 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)'
 citation: ' Markku Suomalainen,  Alexandra Nilles,  Steven LaValle, &quot;Virtual reality for robots.&quot; In the proceedings of 2020 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2020.'

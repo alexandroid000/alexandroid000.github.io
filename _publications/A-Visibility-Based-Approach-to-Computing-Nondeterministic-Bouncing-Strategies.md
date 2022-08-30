@@ -1,7 +1,7 @@
 ---
 title: "A Visibility-Based Approach to Computing Nondeterministic Bouncing Strategies"
 collection: publications
-permalink: /publication/2018-01-01-A-Visibility-Based-Approach-to-Computing-Nondeterministic-Bouncing-Strategies
+permalink: /files/A-Visibility-Based-Approach-to-Computing-Nondeterministic-Bouncing-Strategies
 date: 2018-01-01
 venue: 'In the proceedings of The Workshop on Algorithmic Foundations of Robotics'
 citation: ' Alexandra Nilles,  Yingying Ren,  Israel Becerra,  Steven LaValle, &quot;A Visibility-Based Approach to Computing Nondeterministic Bouncing Strategies.&quot; In the proceedings of The Workshop on Algorithmic Foundations of Robotics, 2018.'

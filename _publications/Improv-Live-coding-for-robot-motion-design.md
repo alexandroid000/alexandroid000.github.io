@@ -1,7 +1,7 @@
 ---
 title: "Improv: Live coding for robot motion design"
 collection: publications
-permalink: /publication/2018-01-01-Improv-Live-coding-for-robot-motion-design
+permalink: /files/Improv-Live-coding-for-robot-motion-design
 date: 2018-01-01
 venue: 'In the proceedings of Proceedings of the 5th International Conference on Movement and Computing'
 citation: ' Alexandra Nilles,  Mattox Beckman,  Chase Gladish,  Amy LaViers, &quot;Improv: Live coding for robot motion design.&quot; In the proceedings of Proceedings of the 5th International Conference on Movement and Computing, 2018.'
