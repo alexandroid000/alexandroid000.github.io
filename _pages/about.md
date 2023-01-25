@@ -15,6 +15,13 @@ Postdoc in Dr. Kirstin Petersen's [Collective Embodied Intelligence Lab](https:/
  in the Electrical and Computer Engineering Department at Cornell University.
 
 
+My research agenda focuses on planning, control, and design of mobile robotic systems
+for applications in environmental monitoring, micro-robotics, and object
+manipulation. I aim to design systems that are minimal, in terms of the sensing,
+actuation, and computational requirements, but still have provable guarantees on
+performance and robustness.
+
+
 [My CV is here](files/NillesCV.pdf). You can see some of my current projects on
 [Google Scholar](https://scholar.google.com/citations?user=3AvC70UAAAAJ&hl=en) and 
 [my github](https://github.com/alexandroid000).
@@ -22,6 +29,10 @@ Postdoc in Dr. Kirstin Petersen's [Collective Embodied Intelligence Lab](https:/
 ### Recent News
 
 
+-   **November 2022**: Attended [DARS](https://dars2022.org/#/) for the first time and presented work
+    on collective systems of Braitenberg vehicles. Such a wonderful conference, and
+    so encouraging to see so much discussion of environmental and public health
+    applications!
 -   **May 2022**: I will be attending ICRA 2022 in-person in Philly to co-organize workshops
     on [math](https://idsc.ethz.ch/research-frazzoli/workshops/compositional-robotics.html) and
     [art](https://roboticart.org/icra2022/)!

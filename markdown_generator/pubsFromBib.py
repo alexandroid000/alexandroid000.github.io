@@ -28,7 +28,7 @@ publist = {
     "proceeding": {
         "file" : "confPubs.bib",
         "venuekey": "booktitle",
-        "venue-pretext": "In the proceedings of ",
+        "venue-pretext": "The proceedings of ",
         "collection" : {"name":"publications",
                         "permalink":"/files/"}
        
@@ -91,7 +91,7 @@ for pubsource in publist:
             url_slug = re.sub("\\[.*\\]|[^a-zA-Z0-9_-]", "", clean_title)
             url_slug = url_slug.replace("--","-")
 
-            md_filename = (url_slug + ".md").replace("--","-")
+            md_filename = (url_slug + "_" + pubsource + ".md").replace("--","-")
             html_filename = (url_slug).replace("--","-")
 
             #Build Citation from text
