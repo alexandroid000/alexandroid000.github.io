@@ -22,9 +22,13 @@ actuation, and computational requirements, but still have provable guarantees on
 performance and robustness.
 
 
-[My CV is here](files/NillesCV.pdf). You can see some of my current projects on
-[Google Scholar](https://scholar.google.com/citations?user=3AvC70UAAAAJ&hl=en) and 
-[my github](https://github.com/alexandroid000).
+[My CV is here](files/NillesCV.pdf). My most up-to-date publication record is on
+[Google Scholar](https://scholar.google.com/citations?user=3AvC70UAAAAJ&hl=en);
+contact me if you cannot access a publication.
+
+Code and simulators that I publish and maintain can be found on [my github](https://github.com/alexandroid000)
+or the [CEI github](https://github.com/CEI-lab).
+
 
 ### Recent News
 
