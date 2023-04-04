@@ -44,7 +44,7 @@ or the [CEI github](https://github.com/CEI-lab).
     collectives. I am excited about the implications of this work for micro-robotics
     as well as macro-scale robot collectives in aquatic and human-robot interaction
     settings!
--   **February 2021:** Our [IJJRR
+-   **February 2021:** Our [IJRR
     paper](https://journals.sagepub.com/doi/full/10.1177/0278364921992788) on
     bouncing robots was published! This is the reference I recommend for my
     work on the bouncing robots. Now we can synthesize robust periodic orbits for robots that
