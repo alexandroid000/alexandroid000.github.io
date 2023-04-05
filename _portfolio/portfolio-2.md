@@ -6,7 +6,7 @@ knowledge of the boundary geometry. <br/><img src='/images/bounce_images.gif' wi
 collection: portfolio
 ---
 
-My Ph.D. work included a deep dive into discrete dynamics, control, and motion planning 
+My Ph.D. work included a deep dive into dynamics, control, and motion planning 
 for *bouncing robots*: mobile robots that have structured
 interactions with boundaries of their environment. Examples include robot
 vacuums that bump into walls to guarantee coverage of an entire room;
@@ -20,4 +20,4 @@ environment and control spaces, we allow for nondeterminism and uncertainty
 at the planning stage and still compute plans that have analytical guarantees on
 their stability and long-term dynamical behavior. This allows us to use the intrinsic, messy dynamics of the robot to
 engineer robust high-level behaviors such as navigating or patrolling a space,
-and even object manipulation.
+and even [object manipulation](files/NilBerPervMurLav_WAFR20.pdf).
