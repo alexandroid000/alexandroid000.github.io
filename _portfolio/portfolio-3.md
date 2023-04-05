@@ -1,6 +1,6 @@
 ---
 title: "Somatic Methods and Embodied Intelligence"
-excerpt: "A live-coding interface for ROS with choreographic abstractions <br/><img
+excerpt: "A live-coding interface for ROS with choreographic abstractions. <br/><img
 src='/images/improv_demo.gif' width='500'>"
 collection: portfolio
 ---
