@@ -14,7 +14,7 @@
   margin-bottom: 1em;
 
   @include breakpoint($large) {
-    @include span(10 of 12);
+    @include span(2 of 12);
     opacity: 1;
     -webkit-transition: opacity 0.2s ease-in-out;
             transition: opacity 0.2s ease-in-out;
@@ -32,7 +32,7 @@
   h2, h3, h4, h5, h6 {
     margin-bottom: 0;
     font-family: $sans-serif-narrow;
-    font-color: $purple;
+    font-color: $heading-color;
   }
 
   h3, h4 {
@@ -50,21 +50,21 @@
   }
 }
 
-//.sidebar__right {
-//  margin-bottom: 1em;
-//
-//  @include breakpoint($large) {
-//    position: relative;
-//    float: right;
-//    width: $right-sidebar-width-narrow;
-//    margin-left: span(0.5 of 12);
-//    z-index: 10;
-//  }
-//
-//  @include breakpoint($x-large) {
-//    width: $right-sidebar-width;
-//  }
-//}
+.sidebar__right {
+  margin-bottom: 1em;
+
+  @include breakpoint($large) {
+    position: relative;
+    float: right;
+    width: $right-sidebar-width-narrow;
+    margin-left: span(0.5 of 12);
+    z-index: 10;
+  }
+
+  @include breakpoint($x-large) {
+    width: $right-sidebar-width;
+  }
+}
 
 .sidebar__left {
   margin-bottom: 1em;
@@ -73,7 +73,7 @@
     position: relative;
     float: left;
     width: $right-sidebar-width-narrow;
-    margin-right: span(11.5 of 12);
+    margin-right: span(0.5 of 12);
     z-index: 10;
   }
 
