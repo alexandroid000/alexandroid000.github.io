@@ -52,8 +52,9 @@ $dark-gray                  : mix(#000, $gray, 40%);
 $darker-gray                : mix(#000, $gray, 60%);
 $light-gray                 : mix(#fff, $gray, 50%);
 $lighter-gray               : mix(#fff, $gray, 90%);
-$purple                     : #be74d1;
-$red                        : #B31B1B; // cornellian
+$purple                     : #432b56;
+$red                        : #B31B1B;
+$green                      : #587a4c;
 $brown                      : #5e3920; // cornellian
 $light-brown                : #89572E; // cornellian
 $green                      : #3d562e; // cei
@@ -63,9 +64,9 @@ $body-color                 : #fff;
 $heading-color              : $purple;
 $background-color           : #fff;
 $code-background-color      : #fafafa;
-$code-background-color-dark : $lighter-green;
-$text-color                 : #000;
-$border-color               : $brown;
+$code-background-color-dark : $light-gray;
+$text-color                 : $dark-gray;
+$border-color               : $purple;
 
 $primary-color              : $red;
 $success-color              : #62c462;
@@ -83,7 +84,7 @@ $behance-color              : $purple;
 $dribble-color              : $purple;
 
 /* links */
-$link-color                 : $info-color;
+$link-color                 : $primary-color;
 $link-color-hover           : mix(#000, $link-color, 25%);
 $link-color-visited         : mix(#fff, $link-color, 25%);
 $masthead-link-color        : $primary-color;
@@ -139,7 +140,7 @@ $susy: (
    Other
    ========================================================================== */
 
-$border-radius              : 4px;
+$border-radius              : 8px;
 $box-shadow                 : 0 1px 1px rgba(0, 0, 0, 0.125);
 $navicon-width              : 28px;
 $navicon-height             : 4px;
