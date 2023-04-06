@@ -32,6 +32,7 @@
   h2, h3, h4, h5, h6 {
     margin-bottom: 0;
     font-family: $sans-serif-narrow;
+    font-color: $purple;
   }
 
   h3, h4 {
@@ -57,6 +58,22 @@
     float: right;
     width: $right-sidebar-width-narrow;
     margin-left: span(0.5 of 12);
+    z-index: 10;
+  }
+
+  @include breakpoint($x-large) {
+    width: $right-sidebar-width;
+  }
+}
+
+.sidebar__left {
+  margin-bottom: 1em;
+
+  @include breakpoint($large) {
+    position: relative;
+    float: left;
+    width: $right-sidebar-width-narrow;
+    margin-right: span(0.5 of 12);
     z-index: 10;
   }
 
