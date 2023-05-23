@@ -8,19 +8,40 @@ redirect_from:
   - /about.html
 ---
 
+My research spans planning, control, and design of mobile robot systems that:
 
-I completed my Ph.D. in Computer Science at the University of Illinois at
-Urbana-Champaign in Fall 2020, advised by [Dr. Steven M. LaValle](http://lavalle.pl/). I am now a
-Postdoc in Dr. Kirstin Petersen's [Collective Embodied Intelligence Lab](https://cei.ece.cornell.edu/)
- in the Electrical and Computer Engineering Department at Cornell University.
+- must navigate environments with many obstacles and narrow passageways, and/or
+- cannot access resources such as GPS or computer vision (ex: micro-scale,
+underwater), and/or
+- highly reliant on agent-environment interactions to complete tasks (either
+through direct contact with obstacles / objects, or by sensing or creating
+environment structures such as lower-resistance paths).
 
+I have published at conferences such as
+[ICRA](https://www.ieee-ras.org/conferences-workshops/fully-sponsored/icra),
+[IROS](https://www.ieee-ras.org/conferences-workshops/financially-co-sponsored/iros),
+[MRS](https://www.ieee-ras.org/conferences-workshops/technically-co-sponsored/mrs),
+[DARS](https://dblp.org/db/conf/dars/index.html),
+[MoCo](https://www.movementcomputing.org/), and [WAFR](http://ifrr.org/wafr),
+as well as journals IJRR and MDPI. I was involved in the development of
+[The Robot Design Game](https://robot-design.org/index.html).
 
-My research agenda focuses on planning, control, and design of mobile robotic systems
-for applications in environmental monitoring, micro-robotics, and object
-manipulation. I aim to design systems that are minimal, in terms of the sensing,
+My work intersects with applications and research in entomology, forestry and ecology, 
+micro-robotics for health and microbiology, embodied intelligence and complex systems.
+I am interested in learning algorithms in the broader context of embodied adaptation and
+attunement in robotic and bio-hybrid systems.
+
+I aim to design systems that are minimal, in terms of the sensing,
 actuation, and computational requirements, but still have provable guarantees on
-performance and robustness.
+performance and robustness. Part of achieving real-world robustness and safety
+is the principled design of interfaces and specifications, so my research also
+intersects with (human | animal) (computer | robot) research.
 
+My Ph.D. in Computer Science (2020) is from the University of Illinois at
+Urbana-Champaign, advised by [Dr. Steven M. LaValle](http://lavalle.pl/). I am now a
+Postdoc in the Electrical and Computer Engineering Department at Cornell University,
+ in Dr. Kirstin Petersen's [Collective Embodied Intelligence
+Lab](https://cei.ece.cornell.edu/).
 
 [My CV is here](files/NillesCV.pdf). My most up-to-date publication record is on
 [Google Scholar](https://scholar.google.com/citations?user=3AvC70UAAAAJ&hl=en);
