@@ -13,9 +13,22 @@ My research spans planning, control, and design of mobile robot systems that:
 - must navigate environments with many obstacles and narrow passageways, and/or
 - cannot access resources such as GPS or computer vision (ex: micro-scale,
 underwater), and/or
-- highly reliant on agent-environment interactions to complete tasks (either
+- are highly reliant on agent-environment interactions to complete tasks (either
 through direct contact with obstacles / objects, or by sensing or creating
 environment structures such as lower-resistance paths).
+
+Given these design constraints, we develop systems that are *minimal* in terms of the sensing,
+actuation, computational, or other resource requirements. Minimal agents enable
+ scalable systems, but the research challenge is in developing
+representations and algorithmic approaches that allow for provable guarantees on
+performance and robustness. Part of achieving real-world robustness and safety
+is the principled design of interfaces and specifications, so my work also
+involves (human | animal)-(computer | robot) interaction research.
+
+I am targeting applications in entomology, forestry, ecology, 
+micro-robotics for health and microbiology, by leveraging embodied intelligence and
+approaches from complex systems. I am interested in learning algorithms in the broader context of embodied adaptation and
+attunement in robotic and bio-hybrid systems.
 
 I have published at conferences such as
 [ICRA](https://www.ieee-ras.org/conferences-workshops/fully-sponsored/icra),
@@ -25,17 +38,6 @@ I have published at conferences such as
 [MoCo](https://www.movementcomputing.org/), and [WAFR](http://ifrr.org/wafr),
 as well as journals IJRR and MDPI. I was involved in the development of
 [The Robot Design Game](https://robot-design.org/index.html).
-
-My work intersects with applications and research in entomology, forestry and ecology, 
-micro-robotics for health and microbiology, embodied intelligence and complex systems.
-I am interested in learning algorithms in the broader context of embodied adaptation and
-attunement in robotic and bio-hybrid systems.
-
-I aim to design systems that are minimal, in terms of the sensing,
-actuation, and computational requirements, but still have provable guarantees on
-performance and robustness. Part of achieving real-world robustness and safety
-is the principled design of interfaces and specifications, so my research also
-intersects with (human | animal) (computer | robot) research.
 
 My Ph.D. in Computer Science (2020) is from the University of Illinois at
 Urbana-Champaign, advised by [Dr. Steven M. LaValle](http://lavalle.pl/). I am now a
