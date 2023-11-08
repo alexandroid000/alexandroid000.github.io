@@ -8,33 +8,36 @@ redirect_from:
   - /about.html
 ---
 
-My research spans planning, control, and design of mobile robot systems that:
-
-- must navigate environments with many obstacles and narrow passageways, and/or
-- cannot access resources such as GPS or computer vision (ex: micro-scale,
-underwater), and/or
-- are highly reliant on agent-environment interactions to complete tasks (either
-through direct contact with obstacles / objects, or by sensing or creating
-environment structures such as lower-resistance paths).
-
-Given these design constraints, we develop systems that are *minimal* in terms of the sensing,
-actuation, computational, or other resource requirements. Minimal agents enable
- scalable systems, but the research challenge is in developing
-representations and algorithmic approaches that allow for provable guarantees on
-performance and robustness. Part of achieving real-world robustness and safety
-is the principled design of interfaces and specifications, so my work also
-involves (human | animal)-(computer | robot) interaction research.
-
+I develop computational approaches for designing and controlling systems of mobile robotic agents.
 I am targeting applications in entomology, forestry, ecology, 
-micro-robotics for health and microbiology, by leveraging embodied intelligence and
-approaches from complex systems. I am interested in learning algorithms in the broader context of embodied adaptation and
-attunement in robotic and bio-hybrid systems.
+micro-robotics for health and microbiology. These settings are challenging for traditional 
+approaches to control and planning for mobile robots, due to unpredictable environmental forces or 
+being unamenable to high-fidelity sensing and communication technologies. How can we identify and
+leverage structure in the complex environment to make our robots more robust? How can we formalize the 
+trade-offs seen in systems with embodied intelligence? And how can we bring our insights 
+from research to bear on practical systems that can assist humanity and our planet?
+
+My work addresses both:
+- theoretical questions about formalization of robotic tasks, representations, and 
+resource requirements; and
+- practical questions about system design and resilience.
+
+Given design constraints inspired by challenging real-world settings, we develop 
+systems that are *minimal* in terms of the sensing,
+actuation, computational, or other resource requirements. Minimal agents enable
+scalable systems due to their lower cost and size requirements, but we need novel
+algorithmic approaches that allow for provable guarantees on
+performance and robustness for systems that may have complex or chaotic behavior, 
+or be severely under-actuated. Part of achieving real-world robustness and safety
+is the principled design of interfaces and specifications, so my work also
+involves human-computer/robot interaction (HCI/HRI).
 
 I have published at conferences such as
 [ICRA](https://www.ieee-ras.org/conferences-workshops/fully-sponsored/icra),
 [IROS](https://www.ieee-ras.org/conferences-workshops/financially-co-sponsored/iros),
 [MRS](https://www.ieee-ras.org/conferences-workshops/technically-co-sponsored/mrs),
 [DARS](https://dblp.org/db/conf/dars/index.html),
+[RoboSoft](https://softroboticsconference.org/),
 [MoCo](https://www.movementcomputing.org/), and [WAFR](http://ifrr.org/wafr),
 as well as journals IJRR and MDPI. I was involved in the development of
 [The Robot Design Game](https://robot-design.org/index.html).
@@ -42,7 +45,7 @@ as well as journals IJRR and MDPI. I was involved in the development of
 My Ph.D. in Computer Science (2020) is from the University of Illinois at
 Urbana-Champaign, advised by [Dr. Steven M. LaValle](http://lavalle.pl/). I am now a
 Postdoc in the Electrical and Computer Engineering Department at Cornell University,
- in Dr. Kirstin Petersen's [Collective Embodied Intelligence
+ in Dr. Kirstin Petersen's [Collective Embodied Intelligence (CEI)
 Lab](https://cei.ece.cornell.edu/).
 
 [My CV is here](files/NillesCV.pdf). My most up-to-date publication record is on
@@ -56,11 +59,12 @@ or the [CEI github](https://github.com/CEI-lab).
 ### Recent News
 
 
+-   **May 2023**: I was selected as a [Cyber-Physical Systems Rising Star](https://risingstars.linklab.virginia.edu/2023/participants/alexandra-nilles.html)!
 -   **November 2022**: Attended [DARS](https://dars2022.org/#/) for the first time and presented work
-    on collective systems of Braitenberg vehicles. Such a wonderful conference, and
-    so encouraging to see so much discussion of environmental and public health
+    on collective systems of Braitenberg vehicles. A wonderful conference with much discussion of environmental and public health
     applications!
--   **May 2022**: I will be attending ICRA 2022 in-person in Philly to co-organize workshops
+-   **August 2022**: I will serve as interim PI for the CEI lab for several months, as part of the NSF Career-Life Balance Program. Congrats to Kirstin and Nils on the new addition to their family!
+-   **May 2022**: I will be attending ICRA 2022 in-person in Philadelphia to co-organize workshops
     on [math](https://idsc.ethz.ch/research-frazzoli/workshops/compositional-robotics.html) and
     [art](https://roboticart.org/icra2022/)!
 -   **Spring 2022:** I have assisted with [one paper](https://ieeexplore.ieee.org/abstract/document/9501972) and [led another](https://ieeexplore.ieee.org/abstract/document/9501972) on soft, inflatable robot
