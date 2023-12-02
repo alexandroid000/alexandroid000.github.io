@@ -60,6 +60,7 @@ or the [CEI github](https://github.com/CEI-lab).
 
 
 -   **May 2023**: I was selected as a [Cyber-Physical Systems Rising Star](https://risingstars.linklab.virginia.edu/2023/participants/alexandra-nilles.html)!
+-   **February 2023**: Honored to be a Microsoft Future Leader in Robotics and AI, and to share my work at the University of Maryland Robotics Center.
 -   **November 2022**: Attended [DARS](https://dars2022.org/#/) for the first time and presented work
     on collective systems of Braitenberg vehicles. A wonderful conference with much discussion of environmental and public health
     applications!
