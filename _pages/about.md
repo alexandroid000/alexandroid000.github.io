@@ -8,29 +8,28 @@ redirect_from:
   - /about.html
 ---
 
-I develop computational approaches for designing and controlling systems of mobile robotic agents.
-I am targeting applications in entomology, forestry, ecology, 
-micro-robotics for health and microbiology. These settings are challenging for traditional 
-approaches to control and planning for mobile robots, due to unpredictable environmental forces or 
-being unamenable to high-fidelity sensing and communication technologies. How can we identify and
-leverage structure in the complex environment to make our robots more robust? How can we formalize the 
-trade-offs seen in systems with embodied intelligence? And how can we bring our insights 
-from research to bear on practical systems that can assist humanity and our planet?
+I develop computational approaches to designing and controlling systems of mobile robotic agents, 
+especially those that use embodied intelligence or are strongly influenced by spatio-temporal 
+characteristics of their environment. My work addresses both theoretical questions about formalization 
+of robotic tasks, representations, and resource requirements, and practical questions about system design and resilience.
 
-My work addresses both:
-- theoretical questions about formalization of robotic tasks, representations, and 
-resource requirements; and
-- practical questions about system design and resilience.
+My work targets settings that are challenging for traditional approaches to control and planning for mobile robots, such as: 
 
-Given design constraints inspired by challenging real-world settings, we develop 
-systems that are *minimal* in terms of the sensing,
-actuation, computational, or other resource requirements. Minimal agents enable
-scalable systems due to their lower cost and size requirements, but we need novel
-algorithmic approaches that allow for provable guarantees on
-performance and robustness for systems that may have complex or chaotic behavior, 
-or be severely under-actuated. Part of achieving real-world robustness and safety
-is the principled design of interfaces and specifications, so my work also
-involves human-computer/robot interaction (HCI/HRI).
+- persistent environmental monitoring, specifically in forestry, ecology, and robot-animal interactions (especially insects);
+- environment-driven underactuated research platforms, such as drifting buoys or balloons; and
+- micro-scale agents for medical and microbiological research.
+
+Given these contexts, my work aims to make multi-robot systems more scalable by reducing per-robot resource use, such as battery size, 
+sensor resolution and calibration, and wireless communication. Given the design constraints and objectives, we need novel
+algorithmic approaches to enable provable guarantees on system performance and robustness even when the system is nondeterministic, chaotic, or under-actuated. 
+Part of achieving real-world robustness and safety involves the principled design of interfaces and specifications where humans are in the loop, so my work also
+involves human-computer/robot interaction (HCI/HRI) and programming languages.
+
+At its core, my research seeks to answer these questions:
+
+- How can we identify and leverage structure in robot-environment interactions to reduce per-agent resource requirements? 
+- How can we formalize the system design trade-offs seen in systems with embodied intelligence, where information processing is offloaded to the robot's embodiment?
+- How can we bring our insights from research to bear on practical systems that can assist humanity and our planet?
 
 I have published at conferences such as
 [ICRA](https://www.ieee-ras.org/conferences-workshops/fully-sponsored/icra),
@@ -50,14 +49,12 @@ Lab](https://cei.ece.cornell.edu/).
 
 [My CV is here](files/NillesCV.pdf). My most up-to-date publication record is on
 [Google Scholar](https://scholar.google.com/citations?user=3AvC70UAAAAJ&hl=en);
-contact me if you cannot access a publication.
+please contact me if you cannot access a publication.
 
 Code and simulators that I publish and maintain can be found on [my github](https://github.com/alexandroid000)
 or the [CEI github](https://github.com/CEI-lab).
 
-
 ### Recent News
-
 
 -   **May 2023**: I was selected as a [Cyber-Physical Systems Rising Star](https://risingstars.linklab.virginia.edu/2023/participants/alexandra-nilles.html)!
 -   **February 2023**: Honored to be a Microsoft Future Leader in Robotics and AI, and to share my work at the University of Maryland Robotics Center.
