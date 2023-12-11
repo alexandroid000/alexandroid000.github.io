@@ -39,7 +39,7 @@ I have published at conferences such as
 [RoboSoft](https://softroboticsconference.org/),
 [MoCo](https://www.movementcomputing.org/), and [WAFR](http://ifrr.org/wafr),
 as well as journals IJRR and MDPI. I was involved in the development of
-[The Robot Design Game](https://robot-design.org/index.html).
+[The Robot Design Game](files/rdg.pdf).
 
 My Ph.D. in Computer Science (2020) is from the University of Illinois at
 Urbana-Champaign, advised by [Dr. Steven M. LaValle](http://lavalle.pl/). I am now a
