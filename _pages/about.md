@@ -56,7 +56,7 @@ or the [CEI github](https://github.com/CEI-lab).
 
 ### Recent News
 
--   **March 2023**: *Beyond elated* to have accepted an offer from Western Washington University to be an Assistant Professor of Computer Science, starting Fall 2024. The hire was specifically for a robotics faculty, and we are cooking up some really fun stuff that I can't wait to dive into! I am also beyond grateful to everyone at Cornell and the CEI Lab for supporting me during my time there.
+-   **March 2024**: *Beyond elated* to have accepted an offer from Western Washington University to be an Assistant Professor of Computer Science, starting Fall 2024. The hire was specifically for a robotics faculty, and we are cooking up some really fun stuff that I can't wait to dive into! I am also beyond grateful to everyone at Cornell and the CEI Lab for supporting me during my time there.
 -   **May 2023**: I was selected as a [Cyber-Physical Systems Rising Star](https://risingstars.linklab.virginia.edu/2023/participants/alexandra-nilles.html)!
 -   **February 2023**: Honored to be a Microsoft Future Leader in Robotics and AI, and to share my work at the University of Maryland Robotics Center.
 -   **November 2022**: Attended [DARS](https://dars2022.org/#/) for the first time and presented work
