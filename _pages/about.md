@@ -8,28 +8,30 @@ redirect_from:
   - /about.html
 ---
 
-I develop computational approaches to designing and controlling systems of mobile robotic agents, 
+I am an Assistant Professor of [Computer Science at Western Washington University](https://cs.wwu.edu/).
+
+In addition to teaching, I develop computational approaches to designing and controlling systems of mobile robotic agents, 
 especially those that use embodied intelligence or are strongly influenced by spatio-temporal 
 characteristics of their environment. My work addresses both theoretical questions about formalization 
 of robotic tasks, representations, and resource requirements, and practical questions about system design and resilience.
 
-My work targets settings that are challenging for traditional approaches to control and planning for mobile robots, such as: 
+My work targets settings that require innovations in the design and control of mobile robots, such as: 
 
-- persistent environmental monitoring, specifically in forestry, ecology, and robot-animal interactions (especially insects);
+- persistent active environmental monitoring, specifically in under-canopy forestry, ecology, and robot-animal interactions;
 - environment-driven underactuated research platforms, such as drifting or energy-harvesting agents; and
-- micro-scale agents for medical and microbiological research (~100 microns, low Reynolds environments).
+- micro-scale agents for medical and micro-bio research (10-100 microns, low Reynolds environments).
 
-Given these contexts, my work aims to make multi-robot systems more scalable by reducing per-robot resource use, such as battery size, 
-sensor resolution and calibration, and wireless communication. Given the design constraints and objectives, we need novel
+Given these contexts, my work aims to make multi-robot systems more scalable by reducing per-robot resource use, such as battery size and usage, 
+sensor resolution/bandwidth, and wireless communication. Given the design constraints and objectives, we need novel
 algorithmic approaches to enable provable guarantees on system performance and robustness even when the system is nondeterministic, chaotic, or under-actuated. 
 Part of achieving real-world robustness and safety involves the principled design of interfaces and specifications where humans are in the loop, so my work also
 involves human-computer/robot interaction (HCI/HRI) and programming languages.
 
 At its core, my research seeks to answer these questions:
 
-- How can we identify and leverage structure in robot-environment interactions to reduce per-agent resource requirements? 
-- How can we formalize the system design trade-offs seen in systems with embodied intelligence, where information processing is offloaded to the robot's embodiment?
-- How can we bring our insights from research to bear on practical systems for environmental monitoring and stewardship?
+- How can we identify *structure in robot-environment interactions* and leverage *embodied intelligence* to reduce per-agent resource requirements? 
+- How can we formalize the *system design trade-offs* seen in mobile robot system design?
+- How can we bring our insights from research to bear on *practical systems* for environmental monitoring and stewardship?
 
 I have published at conferences such as
 [ICRA](https://www.ieee-ras.org/conferences-workshops/fully-sponsored/icra),
@@ -42,9 +44,9 @@ as well as journals IJRR and MDPI. I was involved in the development of
 [The Robot Design Game](files/rdg.pdf).
 
 My Ph.D. in Computer Science (2020) is from the University of Illinois at
-Urbana-Champaign, advised by [Dr. Steven M. LaValle](http://lavalle.pl/). I am now a
+Urbana-Champaign, advised by [Dr. Steven M. LaValle](http://lavalle.pl/). From 2021-2024 I was a
 Postdoc in the Electrical and Computer Engineering Department at Cornell University,
- in Dr. Kirstin Petersen's [Collective Embodied Intelligence (CEI)
+ in Dr. Kirstin Petersen's incredible [Collective Embodied Intelligence (CEI)
 Lab](https://cei.ece.cornell.edu/).
 
 [My CV is here](files/NillesCV.pdf). My most up-to-date publication record is on
